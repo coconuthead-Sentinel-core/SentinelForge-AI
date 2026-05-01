@@ -1,4 +1,4 @@
-# Polish-Pass Notes — Sentinel Prime Network
+# Polish-Pass Notes — Sentinel Forge A1
 
 **Reviewer:** Codex acting on the SES-20260428-0043 publication handoff  
 **Date:** 2026-04-28  
@@ -6,7 +6,7 @@
 
 Second project in the portfolio sprint after **LIB-PROJ-001 Sentinel-of-sentinel-s-Forge** and before **LIB-PROJ-003 Quantum Nexus Forge**.
 
-Naming note: **Sentinel Prime Network** is the canonical public project name. `Forge-Stack-A1` is the internal stack/workspace label for this build.
+Naming note: **Sentinel Forge A1** is the canonical public project name. `Forge-Stack-A1` is the internal stack/workspace label for this build.
 
 ---
 

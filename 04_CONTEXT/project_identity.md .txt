@@ -2,7 +2,7 @@
 # What this project is and what it is not
 
 ## NAME
-Sentinel Prime Network
+Sentinel Forge A1
 
 ## PURPOSE
 A private, local-first AI workstation where Claude, Gemini, and Copilot

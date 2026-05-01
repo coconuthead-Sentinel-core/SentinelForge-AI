@@ -1,4 +1,4 @@
-# Portfolio Brief — Sentinel Prime Network
+# Portfolio Brief — Sentinel Forge A1
 
 > **One-page recruiter overview.** Architecture detail lives in [`../README.md`](../README.md). Publication changelog lives in [`../POLISH_NOTES.md`](../POLISH_NOTES.md).
 
@@ -12,7 +12,7 @@ Quantum Nexus cognitive lattice.
 
 ## Naming
 
-Canonical public name: **Sentinel Prime Network**.
+Canonical public name: **Sentinel Forge A1**.
 Approved short name: `SPN`.
 `Forge-Stack-A1` is the internal stack/workspace label for this build and should not be used as the public project name.
 
@@ -53,7 +53,7 @@ production-graduated portfolio pieces:
 
 - `Sentinel-of-sentinel-s-Forge` shows enterprise-grade feature integration
 - `Quantum Nexus Forge` shows a smaller working orchestration MVP
-- `Sentinel Prime Network` shows the reusable platform scaffold; `Forge-Stack-A1` is the internal stack label
+- `Sentinel Forge A1` shows the reusable platform scaffold; `Forge-Stack-A1` is the internal stack label
 
 Together, those three artifacts show the same architectural instincts at
 different levels of maturity.

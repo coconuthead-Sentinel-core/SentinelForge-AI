@@ -1,10 +1,10 @@
-# Sentinel Prime Network
+# Sentinel Forge A1
 
 > **Local-first AI workstation backend** where Claude / Gemini / Copilot collaborate on a shared codebase under Shannon's direction.
 
 ## Project Identity
 
-The canonical public name for this repo is **Sentinel Prime Network**.
+The canonical public name for this repo is **Sentinel Forge A1**.
 The GitHub slug is `sentinel-prime-network`.
 `Forge-Stack-A1` is the internal stack/workspace label for this build, not a separate public product name.
 
@@ -108,4 +108,4 @@ MIT - see `LICENSE` (or sibling repo `neural-lattice-cognitive-architecture`).
 
 ---
 
-*Sentinel Prime Network. Internal stack label: Forge-Stack-A1. Local. Private. Three-tier. Built for sustained sessions.*
+*Sentinel Forge A1. Internal stack label: Forge-Stack-A1. Local. Private. Three-tier. Built for sustained sessions.*

@@ -1,5 +1,5 @@
 """
-server.py — Sentinel Prime Network FastAPI backend
+server.py — Sentinel Forge A1 FastAPI backend
 ====================================================
 Forge-Stack-A1 / 01_BACK_END
 
@@ -132,7 +132,7 @@ def _save_json(p: Path, data: Any) -> None:
 # ── LIFESPAN (warm-up + protocol activation per protocol_activation.md) ──
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    log.info("Sentinel Prime Network — server starting")
+    log.info("Sentinel Forge A1 — server starting")
     log.info("Activation pipeline: 🜂 → 📥 → 🤝 → 🟢 🔺 → ⚙️ → 💾 → 🥥 → 💠")
     log.info("Onset Omega 1: ON · Coconut Head: ON · Joy Protocol: contextual")
     # Warm storage paths
@@ -140,11 +140,11 @@ async def lifespan(app: FastAPI):
         if not p.exists():
             _save_json(p, default)
     yield
-    log.info("Sentinel Prime Network — server shutting down (handoff preserved)")
+    log.info("Sentinel Forge A1 — server shutting down (handoff preserved)")
 
 
 app = FastAPI(
-    title       = "Sentinel Prime Network",
+    title       = "Sentinel Forge A1",
     description = "Forge-Stack-A1 backend — local-first AI workstation API",
     version     = "0.1.0",
     lifespan    = lifespan,
@@ -162,7 +162,7 @@ app.add_middleware(
 @app.get("/", tags=["meta"])
 async def root() -> Dict[str, Any]:
     return {
-        "service":            "Sentinel Prime Network",
+        "service":            "Sentinel Forge A1",
         "version":            "0.1.0",
         "docs":               "/docs",
         "activation_phrase":  "Quantum Nexus Forge protocols active. Shannon Brian Kelly recognized. Zone alignment confirmed.",
