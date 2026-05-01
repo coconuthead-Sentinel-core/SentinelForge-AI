@@ -1,74 +1,69 @@
-# Polish-Pass Notes — Sentinel Forge A1
+# Polish Notes — SentinelForge AI
 
-**Reviewer:** Codex acting on the SES-20260428-0043 publication handoff  
-**Date:** 2026-04-28  
-**Constraint:** No teardown. No moves. No renames. Portfolio-surface additions only.
-
-Second project in the portfolio sprint after **LIB-PROJ-001 Sentinel-of-sentinel-s-Forge** and before **LIB-PROJ-003 Quantum Nexus Forge**.
-
-Naming note: **Sentinel Forge A1** is the canonical public project name. `Forge-Stack-A1` is the internal stack/workspace label for this build.
+**Date:** 2026-05-01
+**Reviewer:** Claude (Archivist of Wisdom) at proprietor Shannon Brian Kelly's direction
+**Constraint:** Publication-surface paperwork only. No code teardown.
 
 ---
 
 ## Why this pass happened
 
-Project already had a recruiter-readable `README.md`, a working FastAPI MVP in
-`01_BACK_END/server.py`, the front-end visualization component in
-`03_FRONT_END/QuantumNexusSimulation.jsx`, and the context / protocol documents
-that define the three-tier orchestration model.
+SentinelForge AI was published as a public GitHub repository on 2026-05-01 at `https://github.com/coconuthead-Sentinel-core/SentinelForge-AI`. The initial code seed was forked from `Forge-Stack-A1`, the proprietor's predecessor local-first stack (canonical name: `Sentinel Forge A1`).
 
-The publication pass focused on making the repo safe and legible for public
-portfolio review:
-
-- Add a root `.gitignore` for local-only artifacts
-- Add this changelog as an audit trail
-- Add a one-page recruiter brief under `docs/`
+This polish pass brought the new public repository to portfolio-parity with the other published projects in the proprietor's portfolio (Sentinel-of-sentinel-s-Forge, EARP, SFCO, Sovereign Forge, Quantum Nexus Forge, earp-prompts).
 
 ---
 
-## Files added
+## Files added in this pass
 
-### `POLISH_NOTES.md`
+### `LICENSE`
 
-Publication audit trail for the portfolio sprint.
+MIT license, copyright Shannon Brian Kelly, 2026.
 
-### `docs/PORTFOLIO_BRIEF.md`
+### `README.md` (replaced)
 
-One-page recruiter overview describing the project's role, scope, and honest
-status as an MVP three-tier orchestration scaffold.
+The seeded README inherited from Forge-Stack-A1 described the predecessor `Sentinel Forge A1` directly. It has been replaced with a SentinelForge AI–specific version that:
 
-### `.gitignore`
+- Identifies SentinelForge AI as canon entry #9 in the proprietor's project archive
+- Documents the three-tier architecture and three-zone cognitive routing
+- Acknowledges Forge-Stack-A1 lineage as the predecessor public-facing artifact
 
-Publication hygiene for local runtime, env, cache, and session-state artifacts.
+### `POLISH_NOTES.md` (this file, replaced)
 
----
+Publication audit trail — replaces the inherited Sentinel Forge A1 polish notes.
 
-## What was deliberately NOT changed
+### `docs/PORTFOLIO_BRIEF.md` (replaced)
 
-- `01_BACK_END/server.py`
-- `02_MIDDLE_LAYER/`
-- `03_FRONT_END/QuantumNexusSimulation.jsx`
-- `04_CONTEXT/`
-- Project naming and folder layout
+Recruiter-readable one-pager — SentinelForge AI–specific framing.
 
 ---
 
-## Recruiter-facing outcome
+## What was deliberately preserved from Forge-Stack-A1
 
-This repo now reads as a coherent **AI workstation / orchestration scaffold**
-rather than as an internal-only working folder:
+The full three-tier code structure was carried over without modification:
 
-1. `README.md` explains the stack and endpoint surface
-2. `docs/PORTFOLIO_BRIEF.md` gives a fast hiring-manager summary
-3. `POLISH_NOTES.md` shows disciplined publication hygiene
+- `01_BACK_END/` — FastAPI service implementation
+- `02_MIDDLE_LAYER/` — protocol activation, query routing, pipelines
+- `03_FRONT_END/` — React JSX component and dashboard specification
+- `04_CONTEXT/` — Glyphic Codex master, schemas, zone instructions
+- `docs/` — portfolio-infrastructure subdirectory
+- All existing tests, developer tools, and integration memos
+
+---
+
+## What changed at the publication-surface layer
+
+- Project identity reframed from `Sentinel Forge A1` (canonical predecessor, canon #2) to `SentinelForge AI` (canonical successor, canon #9, now public)
+- MIT LICENSE added
+- Polish notes document this publication pass for audit-trail discipline
+- Portfolio brief updated for SentinelForge AI–specific recruiter narrative
 
 ---
 
 ## Honest scope statement
 
-This is an **MVP platform scaffold**, not a production-hardened deployed system.
-The FastAPI backend and routing surface exist locally; planned integrations like
-Cosmos DB, Azure OpenAI, and FastMCP remain future work and are intentionally
-called out that way in the README.
+This is the initial public release of SentinelForge AI. The codebase inherits production-grade architecture from its predecessor. Going forward, SentinelForge AI evolves independently as the public-facing project; the predecessor `Sentinel Forge A1` is frozen in the proprietor's Completed projects archive. Cosmos DB integration, Azure OpenAI integration, and FastMCP wrapper remain documented roadmap items per the predecessor's status, and stay roadmap items for SentinelForge AI v0.1.0.
 
-That honesty is part of the value of the portfolio artifact.
+---
+
+*Polish pass executed by Claude (Archivist of Wisdom) at proprietor's direction, 2026-05-01.*
