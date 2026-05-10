@@ -47,7 +47,7 @@ Open <http://localhost:8000/docs> for the OpenAPI / Swagger UI.
 
 ## Lineage
 
-The initial code seed for SentinelForge AI is forked from `Forge-Stack-A1`, the predecessor local-first stack (canonical name: `Sentinel Forge A1`). That predecessor is frozen in the proprietor's Completed projects archive. SentinelForge AI is the public-facing successor and continues active development.
+The initial code seed for SentinelForge AI is forked from `Forge-Stack-A1`, the predecessor local-first stack (canonical name: `Sentinel Prime Network`). That predecessor is frozen in the proprietor's Completed projects archive. SentinelForge AI is the public-facing successor and continues active development.
 
 ## License
 
