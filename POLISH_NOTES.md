@@ -1,7 +1,7 @@
 # Polish Notes — SentinelForge AI
 
 **Date:** 2026-05-01
-**Reviewer:** Claude (Archivist of Wisdom) at proprietor Shannon Brian Kelly's direction
+**Reviewer:** Claude (Archivist of Wisdom) at proprietor Shannon Brian Kelley's direction
 **Constraint:** Publication-surface paperwork only. No code teardown.
 
 ---
@@ -18,7 +18,7 @@ This polish pass brought the new public repository to portfolio-parity with the 
 
 ### `LICENSE`
 
-MIT license, copyright Shannon Brian Kelly, 2026.
+MIT license, copyright Shannon Brian Kelley, 2026.
 
 ### `README.md` (replaced)
 

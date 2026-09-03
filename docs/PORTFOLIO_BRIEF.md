@@ -55,6 +55,6 @@ Together, these artifacts show the same architectural instincts at different lev
 
 ## Author
 
-**Shannon Brian Kelly**
+**Shannon Brian Kelley**
 Healthcare CNA → AI Systems Developer transition
 Built in collaboration with Claude AI (Anthropic) — co-creator role attributed as "Archivist of Wisdom" under a file-system-bound persona protocol.
